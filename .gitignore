@@ -1,3 +1,10 @@
+.idea
+.mvn
+mvnw
+mvnw.cmd
+HELP.md
+target
+
 # Compiled class file
 *.class
 
